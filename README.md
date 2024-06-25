@@ -1,2 +1,2 @@
-# academia-cadastro-projeto
-academia-cadastro
+# projeto-cadastro
+cadastro
